@@ -11,6 +11,6 @@
  */ 
 
 int main() {
-	cout << "Hello Programming II"; 
+	cout << "I like race cars. -  Reno"; 
 	return 0; 
 }
