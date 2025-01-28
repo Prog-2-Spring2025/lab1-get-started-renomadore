@@ -12,5 +12,6 @@
 
 int main() {
 	cout << "I like race cars. -  Reno"; 
+	cout << endl;
 	return 0; 
 }
